@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/junio/projet_cnn_fpga/sim
+Ecounter8
+Z1 w1792581973
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 10
+R0
+Z5 8../rtl/counter8.vhd
+Z6 F../rtl/counter8.vhd
+l0
+L5 1
+V[TN[j`YgL9n9N;9<jGeL`2
+!s100 8l=R>@GBKGR98?CImHW9C0
+Z7 OV;C;2020.1;71
+33
+Z8 !s110 1792583640
+!i10b 1
+Z9 !s108 1792583640.000000
+Z10 !s90 -reportprogress|300|-2008|../rtl/counter8.vhd|
+Z11 !s107 ../rtl/counter8.vhd|
+!i113 1
+Z12 o-2008
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+DEx4 work 8 counter8 0 22 [TN[j`YgL9n9N;9<jGeL`2
+!i122 10
+l13
+L11 21
+V@TeK^@;bf:zDT<lHo9=US0
+!s100 o;QZDQ^:120PL<gIDm>>n2
+R7
+33
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_counter8
+Z14 w1792581985
+R2
+R3
+R4
+!i122 11
+R0
+Z15 8../tb/tb_counter8.vhd
+Z16 F../tb/tb_counter8.vhd
+l0
+L5 1
+VYJS^<dCZHf@Fg_P91T80d2
+!s100 LXX>i;zREEo8<?o:n;hig1
+R7
+33
+Z17 !s110 1792583641
+!i10b 1
+Z18 !s108 1792583641.000000
+Z19 !s90 -reportprogress|300|-2008|../tb/tb_counter8.vhd|
+Z20 !s107 ../tb/tb_counter8.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+Z21 DEx4 work 11 tb_counter8 0 22 YJS^<dCZHf@Fg_P91T80d2
+!i122 11
+l25
+Z22 L8 61
+Z23 VhMSGHgT;1Qn]Pjm4>zlei3
+Z24 !s100 I9mC<LZo_9N@1^<ALKP<:3
+R7
+33
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
