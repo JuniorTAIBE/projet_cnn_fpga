@@ -12,10 +12,12 @@ architecture Behavioral of counter8 is
 signal count_int : unsigned(7 downto 0) := (others => '0');
 begin   
 
-process(clk, rst, enable)
+process(clk)
+
 begin   
 
-    if clk'event and clk = '1' then
+    if rising_edge(clk) then
+
         if rst = '1' then
         count_int <= (others => '0');
         elsif enable = '1' then

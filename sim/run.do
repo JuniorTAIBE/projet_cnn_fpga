@@ -11,6 +11,6 @@ view wave
 # 2. Ajoute TOUS les signaux de votre banc de test (tb_counter8) au chronogramme
 add wave -position insertpoint sim:/tb_counter8/*
 
-# 3. Lance la simulation pendant une durée définie (ex: 2 microsecondes)
+# 3. Lance la simulation pendant toute la durée
 
-run 500 ns
+run -all
